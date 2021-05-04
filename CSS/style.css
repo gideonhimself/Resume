@@ -1,0 +1,149 @@
+body {
+  color: #40514e;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+.top_container {
+  background-color: #79cabb;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top_cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.buttom_cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.middle_container {
+  padding: 100px o;
+}
+
+p {
+  line-height: 2;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  color: #79a099;
+  border: dotted;
+  border-bottom: none;
+  width: 4%;
+  margin: 7% auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.Design-Developer {
+  float: left;
+  margin-right: 10%;
+  width: 25%;
+}
+
+.Pro-Gamer {
+  float: right;
+  margin-left: 10%;
+  margin-bottom: 50px;
+  width: 25%;
+}
+
+.edit-profile {
+  margin-top: 60px;
+  border-radius: 100%;
+}
+
+.buttom_container {
+  background-color: rgb(137, 137, 204);
+  margin: 7% auto 0px;
+  padding: 50px 0 20px;
+}
+
+.contact-message {
+  width: 36%;
+  margin: 40px auto 60px;
+}
+
+a {
+  color: #fff9f9;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+h1 {
+  color: rgb(9, 32, 32);
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  font-weight: 580;
+}
+
+h2 {
+  color: rgb(35, 184, 184);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.btn {
+  background-color: #ffffff;
+  -webkit-border-top-left-radius: 23px;
+  -moz-border-radius-topleft: 23px;
+  border-top-left-radius: 23px;
+  -webkit-border-top-right-radius: 0px;
+  -moz-border-radius-topright: 0px;
+  border-top-right-radius: 0px;
+  -webkit-border-bottom-right-radius: 23px;
+  -moz-border-radius-bottomright: 23px;
+  border-bottom-right-radius: 23px;
+  -webkit-border-bottom-left-radius: 0px;
+  -moz-border-radius-bottomleft: 0px;
+  border-bottom-left-radius: 0px;
+  text-indent: 0;
+  border: 3px solid #9499ff;
+  display: inline-block;
+  color: #856185;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: normal;
+  height: 45px;
+  line-height: 45px;
+  width: 133px;
+  text-decoration: none;
+  text-align: center;
+}
+.classname:hover {
+  background-color: #75ad56;
+}
+.classname:active {
+  position: relative;
+  top: 1px;
+}
